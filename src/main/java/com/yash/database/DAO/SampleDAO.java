@@ -51,6 +51,7 @@ public class SampleDAO {
 
         quesAnswrList = (List<QuesAnswr>)criteria.list();
 */
+       //commit
         session.close();
         System.out.println();
         System.out.println();
